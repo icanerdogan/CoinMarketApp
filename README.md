@@ -15,7 +15,7 @@ Application that lists newly released coins
 
 <h2> Home- Settings - Profile Screen </h2>
 <p float="left" align="center">
-  <img src="images/homescreen.jpeg" width="285.75" height="571.5" />
+  <img src="images/newhomescreen.jpeg" width="285.75" height="571.5" />
   <img src="images/settingsscreen.jpeg" width="285.75" height="571.5" />
   <img src="images/profilescreen.jpeg" width="285.75" height="571.5" />
 </p>
